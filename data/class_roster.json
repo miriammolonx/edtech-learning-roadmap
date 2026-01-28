@@ -1,0 +1,32 @@
+[
+  {
+    "student_id": "STU-001",
+    "name": "Maria Santos",
+    "email": "m.santos@university.edu",
+    "status": "Active",
+    "grades": {
+      "midterm": 88,
+      "final": 92
+    }
+  },
+  {
+    "student_id": "STU-002",
+    "name": "Li Wei",
+    "email": "l.wei@university.edu",
+    "status": "Active",
+    "grades": {
+      "midterm": 75,
+      "final": 81
+    }
+  },
+  {
+    "student_id": "STU-003",
+    "name": "John Smith",
+    "email": "j.smith@university.edu",
+    "status": "At-Risk",
+    "grades": {
+      "midterm": 65,
+      "final": 70
+    }
+  }
+]
