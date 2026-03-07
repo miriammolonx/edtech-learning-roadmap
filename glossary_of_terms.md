@@ -14,5 +14,3 @@
 * **Asynchronous Learning:** Learning that allows students to access materials and complete work at their own pace and time.
 * **Blended Learning:** An education style that combines online educational materials and opportunities for interaction online with traditional place-based classroom methods.
 * **Gamification:** The application of game-design elements and game principles in non-game contexts (like a classroom) to improve user engagement.
-
-
