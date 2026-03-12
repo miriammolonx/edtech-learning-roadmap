@@ -18,7 +18,7 @@ def calculate_weighted_average(scores, weights):
 
 # --- Test Case ---
 # Scenario: 50% Exam, 20% Quiz, 30% Project
-current_scores = [85, 90, 95] 
+current_scores = [90, 80, 95] 
 current_weights = [0.50, 0.20, 0.30]
 
 result = calculate_weighted_average(current_scores, current_weights)
