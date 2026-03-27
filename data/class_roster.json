@@ -21,8 +21,8 @@
   },
   {
     "student_id": "STU-003",
-    "name": "John Smith",
-    "email": "j.smith@university.edu",
+    "name": "Kevin Smith",
+    "email": "k.smith@university.edu",
     "status": "At-Risk",
     "grades": {
       "midterm": 65,
