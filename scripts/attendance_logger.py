@@ -25,7 +25,6 @@ def check_attendance_status(student_id, present_days, total_school_days):
         "rate": f"{attendance_rate}%",
         "status": status
     }
-
 # --- Test Case ---
 # Student 101 has attended 35 out of 50 days
 student_data = check_attendance_status("STU-101", 35, 50)
