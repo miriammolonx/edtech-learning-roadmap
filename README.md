@@ -22,4 +22,4 @@ This repository documents my technical journey into **Educational Technology (Ed
 * **`research/`**: *(Upcoming)* Notes on educational policy and leadership frameworks.
 
 ---
-*Updated: April 2026*
+*Updated: June 2026*
